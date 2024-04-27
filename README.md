@@ -1,3 +1,5 @@
+The project is still in the development stage.
+
 Automated Reminder Email System for PT Findings Mitigation
 Overview
 This project is a GUI-based PHP application designed to automate the process of sending reminder emails to asset owners, facilitating the mitigation of penetration testing (PT) findings. The application streamlines the communication process and ensures timely resolution of identified security issues.
